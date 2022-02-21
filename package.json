@@ -1,0 +1,14 @@
+{
+  "name": "@wgl/0221-air-drop",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "m1heng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.4"
+  }
+}
